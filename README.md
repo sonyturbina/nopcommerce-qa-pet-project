@@ -45,10 +45,10 @@ During testing, I used:
 
 ## 🛠 Tools
 
-- Jira — test case and bug tracking
-- Google Chrome — testing environment
-- Chrome DevTools — web application inspection
-- GitHub — project documentation
+- Jira - test case and bug tracking
+- Google Chrome - testing environment
+- Chrome DevTools - web application inspection
+- GitHub - project documentation
 
 ---
 
