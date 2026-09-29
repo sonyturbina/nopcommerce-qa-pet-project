@@ -88,6 +88,10 @@ A whitespace-only wishlist name should be treated as empty. The wishlist should 
 
 The application creates a new wishlist with a whitespace-only name. The wishlist is displayed as a blank tab.
 
+### Screenshot
+
+![BUG-WISHLIST-001](BUG-WISHLIST-001.png)
+
 **Reproducibility:** 2/2 (100%)
 
 **Priority:** Medium
